@@ -1,4 +1,4 @@
-#Backend part of Steam Wishlist
+# Backend part of Steam Wishlist
 
 In the project directory, you can run: 
 ### `uvicorn main:app`
