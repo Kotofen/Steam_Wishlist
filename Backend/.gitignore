@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+
+# Virtual Environments
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Wishlist files
+Wishlists/
+Gamelists/
